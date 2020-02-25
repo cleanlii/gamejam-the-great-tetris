@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ShellEnemy
+  - cellmap
+  - KnightEnemy
+  - SwordEnemy
+  - GongEnemy
+  - Surprise
+  - Chest
+  - Shop
+  - Drink
+  - Wall
+  - Octupus
+  - Devil
+  - ArrowEnemy
+  - Surprise1
+  - Surprise2
+  - Flag
+  - Surprise3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 3083509271
+    locked: 0
+  - name: Envir
+    uniqueID: 42445377
+    locked: 0
+  - name: Player
+    uniqueID: 2063441429
+    locked: 0
+  - name: Front
+    uniqueID: 1961544435
+    locked: 0
